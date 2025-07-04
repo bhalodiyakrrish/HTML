@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Discover Your Favourite Travel Destination">
+<title>Travel Agency Page</title>
+</head>
+<body>
+      <h1>Discover Spain Like Never Before</h1>
+      <p>Spain presents a compelling travel opportunity in July 2025, with visa-free access for many nationalities and a wide array of attractions. From vibrant cities like Barcelona and Madrid to stunning beaches in Ibiza and the Canary Islands, there's something for every traveler. You can explore historical sites, enjoy vibrant nightlife, or even find opportunities for volunteering or paid work.</p>
+      <h2>Packages</h2>
+      <p>When planning a trip to Spain, budgeting is key to making the most of your experience. Spain is known as one of the most affordable destinations in Western Europe, offering good value for money.</p>
+      <ul>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+      </ul>
+      <h2>Top Itineraries</h2>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://hblimg.mmtcdn.com/content/hubble/img/schengenvideoimg/mmt/activities/m_Barcelona_10_l_662_1000.jpg" alt="Barcelnoa"></a>
+        <figcaption>Barcelona, Spain</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://hblimg.mmtcdn.com/content/hubble/img/Bulk_International/mmt/activities/m_Madrid_1-min_l_664_1000.jpg" alt="Madrid"></a>
+        <figcaption>Madrid, Spain</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://hblimg.mmtcdn.com/content/hubble/img/maingalleryimgs/mmt/activities/m_Ibiza_1_l_611_962.jpg" alt="Ibiza"></a>
+        <figcaption>Ibiza, Spain</figcaption>
+      </figure>
+    
+</body>
+</html>
