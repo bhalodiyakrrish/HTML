@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Welcome to my Channel</h1>
+        <p>The Formula 1 Channel is a free, ad-supported streaming television (FAST) channel available in the US, offering 24/7 access to Formula 1 content. It broadcasts Formula 1, Formula 2, Formula 3, and F1 Academy races, replays, highlights, classic Grand Prix reruns, and documentaries. This channel aims to enhance the fan experience and introduce new viewers to the sport.</p>
+        <section>
+            <h2>Formula 1</h2>
+            <p>Available without a subscription fee, supported by advertising.</p>
+            <iframe src="https://www.formula1.com/en/video/fp1-highlights-2025-british-grand-prix.1836724869744497470" title="F1" height="250" width="450"></iframe>
+        </section>
+        <section>
+            <h2>Formula 2</h2>
+            <p>Available without a subscription fee, supported by advertising.</p>
+            <iframe src="https://www.youtube.com/watch?v=UF8XaaIyS6k" title="F2" height="250" width="450"></iframe>
+        </section>
+        <section>
+            <h2>Formula 3</h2>
+            <p>Available without a subscription fee, supported by advertising.</p>
+            <iframe src="https://www.youtube.com/watch?v=6nSO5kMAPLo" title="F3" height="250" width="450"></iframe>
+        </section>
+    </main>  
+</body>
+
+</html>
